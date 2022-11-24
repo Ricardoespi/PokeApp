@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\bin\Debug\negocio.dll
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\bin\Debug\negocio.pdb
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\bin\Debug\dominio.dll
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\bin\Debug\dominio.pdb
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\obj\Debug\negocio.dll
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\negocio\obj\Debug\negocio.pdb

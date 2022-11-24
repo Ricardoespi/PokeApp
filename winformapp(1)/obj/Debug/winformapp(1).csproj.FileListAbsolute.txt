@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\bin\Debug\winformapp(1).exe.config
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\bin\Debug\winformapp(1).exe
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\bin\Debug\winformapp(1).pdb
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp(1).csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp(1).csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp_1_.Form1.resources
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp_1_.Properties.Resources.resources
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp(1).csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp(1).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp(1).exe
+C:\Users\Admin\Documents\Curso C# Nivel 2\ejemplos-ado-net(Unidad 6)\winformapp(1)\obj\Debug\winformapp(1).pdb
